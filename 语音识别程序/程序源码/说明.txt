@@ -1,0 +1,11 @@
+本文件夹下的examples和树莓派test.py以及语音识别程序.py
+
+都	不是	可以直接运行的程序，
+
+程序	详细用法		和	文档
+
+见本项目说明https://github.com/OscarXChen/Drone-Voice-Control-with-Mandarin-Chinese
+
+或参见开源项目MASR说明https://github.com/nobody132/masr，或https://gitee.com/siyangbing/masr
+
+gated-conv.pth是不带语言模型的预训练模型，有关语言模型和docker部分参见上述网址
