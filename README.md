@@ -71,4 +71,4 @@ A project that using mandarin Chinese to control drones
 --- 
 以上，希望可以帮到你
 
-自述文档未来会继续更新,添加更多细节 当前版本为：2.1
+自述文档未来会继续更新,添加更多细节 当前版本为：2.2
