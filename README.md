@@ -66,9 +66,9 @@ A project that using mandarin Chinese to control drones
 ### 3.5 需求环境
 本来这并不需要单独开一个写，但是实在坑踩得太惨了，**强烈建议**试图复现的工作者**完全**按照[该文件](https://github.com/OscarXChen/Drone-Voice-Control-with-Mandarin-Chinese/blob/main/%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB%E7%A8%8B%E5%BA%8F/%E9%9C%80%E6%B1%82%E7%8E%AF%E5%A2%83.txt)中第三行的要求进行环境配置
 
-顺便，Dronekit库仅支持python2，即树莓派上的运行环境不能是python3.x系列，需要是python2.x系列
+顺便，DroneKit库仅支持python2，即树莓派上的运行环境不能是python3.x系列，需要是python2.x系列
 
 --- 
 以上，希望可以帮到你
 
-自述文档未来会继续更新,添加更多细节 当前版本为：1.9
+自述文档未来会继续更新,添加更多细节 当前版本为：2.1
