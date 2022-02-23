@@ -9,7 +9,7 @@ A project that using mandarin Chinese to control drones
 
 但我认为已完成的部分，仍有较好的参考价值，尤其对尝试建立和PC上位机协同的无人机控制系统的初学者或本科生
 
-我将项目记录在此，希望可以帮到你。
+将项目整理于此，希望可以帮到你。
 
 ---
 
